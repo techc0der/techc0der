@@ -21,7 +21,7 @@
 ---
 
 ## 🧠 LeetCode Stats  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/techc0der?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/techc0der?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/techc0der?theme=chartreuse&font=Hind%20Madurai&ext=heatmap)
 
 ---
 
